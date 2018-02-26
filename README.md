@@ -6,4 +6,6 @@ the circles are shrinking, new circles will appear behind the pre-existing circl
 towards zero. The circles which are being made will rotate colors between white and red depending on the pattern
 of the bullseye. This will continue untill the user presses stop.
 
-****STILL IN DEVELOPMENT***
+**STILL IN DEVELOPMENT
+-Implementation of Timeline in order to have all 7 or 8 circles be created and shrink towards zero and then 
+ be created again untill the user stops the animation
