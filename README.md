@@ -1,4 +1,4 @@
-# BullsEye
+# Target_Animation
 
 This program will first display a bullseye with a button reading "Animate me" in the middle. Once the button
 is clicked, the existing circles inside the bullseye will start to shrink untill their areas equal zero. While
